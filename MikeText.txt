@@ -7,3 +7,5 @@ Another line
 
 
 branch
+
+new branch
